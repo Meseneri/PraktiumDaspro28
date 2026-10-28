@@ -1,9 +1,7 @@
 <div align="center">
 
-  <!-- Judul dengan gaya modern -->
-  <h1>🚀 Ini Adalah Repository Pertama Saya</h1>
-  
-  <!-- Badges Keren -->
+  <h1>Ini Adalah Repository Pertama Saya</h1>
+
   <p>
     <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
     <img src="https://img.shields.io/badge/Kelas-TI--1D-blue?style=for-the-badge" alt="Kelas" />
@@ -15,8 +13,6 @@
 ---
 
 ### 👨‍💻 Informasi Mahasiswa
-
-Berikut adalah detail identitas pemilik _repository_ ini:
 
 | Atribut      | Keterangan                     |
 | :----------- | :----------------------------- |
